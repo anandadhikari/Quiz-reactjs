@@ -7,7 +7,6 @@
     "test": "No test",
     "start": "node server.js"
   },
-
   "keywords": [
     "React",
     "Quiz",
@@ -18,7 +17,6 @@
   ],
   "author": "Anand",
   "license": "ISC",
-
   "dependencies": {
     "babel-core": "^6.21.0",
     "babel-loader": "^6.2.10",
