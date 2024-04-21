@@ -1,3 +1,3 @@
 # Quiz-reactjs
-deployed on heroku
-http://quiz-reactjs.herokuapp.com/
+deployed on vercel
+[http://quiz-reactjs.herokuapp.com/](https://quiz-reactjs-murex.vercel.app/)
